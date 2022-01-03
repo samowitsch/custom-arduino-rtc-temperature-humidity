@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name custom-arduino-rtc-temperature-humidity)(type KiCad)(uri ${KIPRJMOD}/custom-arduino-rtc-temperature-humidity.pretty)(options "")(descr ""))
+  (lib (name kicad)(type KiCad)(uri /home/csg/kicad/atmega8/kicad.pretty)(options "")(descr ""))
+)
