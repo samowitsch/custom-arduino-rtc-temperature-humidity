@@ -3,8 +3,8 @@
 > **Preface:** Dont exspect too much this is a private learning hobbyist project 😜
 
 This is just a learning project of how to build/design a custom arduino pcb (Pro Micro) using a Atmega32U4.
-The aim was to learn something about electronics and how to design a custom arduino pcb with [KiCad](https://kicad-pcb.org/).
-In this repo you can find miscellaneous datasheets and schematics of other resources and the [KiCad](https://kicad-pcb.org/) files of this project itself. Included are also files for a simple case for cnc machining.
+The aim was to learn something about electronics and how to design a custom arduino pcb with [KiCad](https://kicad.org/).
+In this repo you can find miscellaneous datasheets and schematics of other resources and the [KiCad](https://kicad.org/) files of this project itself. Included are also files for a simple case for cnc machining.
 
 Dont expect to much of the source code (```custom-arduino-rtc-bme280.ino```). It looks a little bit messy. Uses a lot of libs and lots of ram. Improvements could be: the use of interrupts instead of a delay routine, get rid of the libs and write own code that uses less ram. In fact that i have not mounted rev1.1 there is no code for the eeprom. The eeprom could be used to store temperature data for a graph like display.
 
